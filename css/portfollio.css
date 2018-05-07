@@ -1,0 +1,34 @@
+ body {
+	background-image: url("../img/kitty.JPG");
+	background-size: cover;
+}
+
+.profile {
+	text-align: center;
+	color: black;
+}
+
+.imgs img {
+	border-radius: 100%;
+}
+
+.name {
+	color: black;
+}
+
+.s_icons {
+	height: 50px;
+	width: 50px;
+	color: black;
+	padding: 10px;
+}
+
+.s_icons:hover {
+	opacity: 0.5;
+	transition: opacity .15s ease-in; 
+}
+
+
+
+
+
